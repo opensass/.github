@@ -49,7 +49,7 @@ Since GitHub Donations aren't supported here, we're using **crypto donations** a
 ## 🌐 Socials
 
 Stay updated and connect with us on:
-- **Discord**: [Join our community](https://discord.gg/dGCPR6bq)
+- **Discord**: [Join our community](https://discord.gg/b5JbvHW5nv)
 - **LinkedIn**: [Follow us](https://linkedin.com/company/opensass)
 - **X (Twitter)**: [Stay updated](https://x.com/opensassorg)
 
